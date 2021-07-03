@@ -47,3 +47,43 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+.special {
+  text-size-adjust: 100%;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  color: #696969;
+}
+
+.Stories {
+  text-align-last: center;
+  margin-left: .2rem;
+  color: blue;
+  pa
+}
+.single-experience {
+  
+  box-shadow: 10px 10px 40px #95afc0;
+  
+}
+.experience-area {
+  background-image: url(/images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+#one {
+  border-left: 7px solid;
+  border-image: linear-gradient(#f0932b , #f6e58d);
+  border-image-slice: 1;
+
+}
+#two {
+  border-left: 7px solid;
+  border-image:linear-gradient(#4834d4,#7ed6df) ;
+  border-image-slice: 1;
+} 
+footer {
+  text-align:center
+}
